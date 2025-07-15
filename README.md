@@ -1,30 +1,30 @@
-# Ai tools dictionary
+# 🧠 AI Tools Dictionary
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A curated, categorized, and searchable dictionary of powerful AI tools — from productivity boosters to developer APIs. Built for creators, coders, and curious minds exploring the AI landscape.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/4427adithya-gmailcoms-projects/v0-ai-tools-dictionary)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/5qujLtbPkhN)
 
-## Overview
+## 🔍 Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+-  AI tools across domains:Text, Image, Audio, Video, Data Analysis, Code, Productivity
+-  Categorized by use-case, price, and platform
+- ⚡ Built for quick discovery & idea inspiration
+- 📁 Lightweight, fast, and mobile-friendly UI
 
-## Deployment
+---
 
-Your project is live at:
+## 📦 Tech Stack
 
-**[https://vercel.com/4427adithya-gmailcoms-projects/v0-ai-tools-dictionary](https://vercel.com/4427adithya-gmailcoms-projects/v0-ai-tools-dictionary)**
+- Frontend: React, CSS, JavaScript (or React if applicable)
+- Backend: JSON 
+- Hosting: Vercel
 
-## Build your app
+---
 
-Continue building your app on:
+## 🚀 Getting Started
 
-**[https://v0.dev/chat/projects/5qujLtbPkhN](https://v0.dev/chat/projects/5qujLtbPkhN)**
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/ai-tools-dictionary.git
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+# Open in browser (if static)
+open index.html
