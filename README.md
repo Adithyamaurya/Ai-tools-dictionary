@@ -10,7 +10,6 @@ A curated, categorized, and searchable dictionary of powerful AI tools — from 
 - ⚡ Built for quick discovery & idea inspiration
 - 📁 Lightweight, fast, and mobile-friendly UI
 
----
 
 ## 📦 Tech Stack
 
@@ -18,7 +17,6 @@ A curated, categorized, and searchable dictionary of powerful AI tools — from 
 - Backend: JSON 
 - Hosting: Vercel
 
----
 
 ## 🚀 Getting Started
 
