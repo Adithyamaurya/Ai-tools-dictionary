@@ -1,4 +1,4 @@
-# 🧠 AI Tools Dictionary
+# AI Tools Dictionary
 
 A curated, categorized, and searchable dictionary of powerful AI tools — from productivity boosters to developer APIs. Built for creators, coders, and curious minds exploring the AI landscape.
 
