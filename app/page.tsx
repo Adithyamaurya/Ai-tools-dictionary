@@ -16,6 +16,7 @@ export default function Home() {
     "Data Analysis",
     "Code Generation",
     "Productivity",
+    "CSS Libraries", // Add CSS Libraries to category list
   ]
 
   const categoryColors = {
@@ -27,6 +28,7 @@ export default function Home() {
     "Data Analysis": "bg-orange-500 hover:bg-orange-600",
     "Code Generation": "bg-indigo-500 hover:bg-indigo-600",
     Productivity: "bg-teal-500 hover:bg-teal-600",
+    "CSS Libraries": "bg-pink-500 hover:bg-pink-600", // Add color for CSS Libraries
   }
 
   const filteredTools =
